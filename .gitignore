@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Test artifacts (as specified in assignment)
+test-results/
+playwright-report/
+playwright/.cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
